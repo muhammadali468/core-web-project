@@ -1,0 +1,6 @@
+1-> Folder structure.
+2-> Layout(footer should be at the end).
+3-> Svg Icon should have currentColor and their respective parents should have color which can be changed on hover as well which is not possible in svg.
+4-> Check why these files are used
+	1-Modernizer.min.js
+	2-Respond.min.js
